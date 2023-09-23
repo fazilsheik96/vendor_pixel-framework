@@ -131,7 +131,6 @@ import dagger.Lazy;
         ElmyraModule.class,
         ColumbusModule.class,
         StatusBarEventsModule.class,
-        CustomQSModule.class,
         BluetoothModule.class,
         SystemUIGooglePolicyModule.class,
         RotationLockModule.class
